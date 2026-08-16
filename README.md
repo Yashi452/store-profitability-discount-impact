@@ -63,7 +63,7 @@ The analysis helps identify:
 
 ## 📸 Dashboard Preview
 
-![Store Profitability Dashboard](dashboard_preview.jpg)
+![Store Profitability Dashboard](Dashboard%20screenshot.png)
 
 ## 🎯 Conclusion
 
